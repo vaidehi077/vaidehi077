@@ -1,0 +1,13 @@
+ -👋 Hi, I’m @vaidehi077
+- 👀 I’m interested in C, C++, Python for data science, javascript.
+- 🌱 I’m currently learning Full-Stack Web Development.
+- 💞️ I’m looking to collaborate on open source projects.
+- 👩‍💻 All of my projects are available at 
+- 📫 How to reach me vaishnavvaidehi03@gmail.com, www.linkedin.com/in/
+vaidehi-vaishnav-b5164b229.
+
+
+<!---
+vaidehi077/vaidehi077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

@@ -1,5 +1,5 @@
  -👋 Hi, I’m @vaidehi077
-- 👀 I’m interested in C, C++, Python for data science, javascript.
+- 👀 I’m interested in C, C++, Python for data science, java, SQL, javascript.
 - 🌱 I’m currently learning Full-Stack Web Development.
 - 💞️ I’m looking to collaborate on open source projects.
 - 👩‍💻 All of my projects are available at https://github.com/vaidehi077.

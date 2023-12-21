@@ -2,7 +2,7 @@
 - 👀 I’m interested in C, C++, Python for data science, javascript.
 - 🌱 I’m currently learning Full-Stack Web Development.
 - 💞️ I’m looking to collaborate on open source projects.
-- 👩‍💻 All of my projects are available at 
+- 👩‍💻 All of my projects are available at https://github.com/vaidehi077
 - 📫 How to reach me vaishnavvaidehi03@gmail.com, www.linkedin.com/in/
 vaidehi-vaishnav-b5164b229.
 
